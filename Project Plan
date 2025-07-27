@@ -40,6 +40,9 @@ Build a working demo that shows how AI can assist jury operations with clear bou
 - Built a RAG pipeline to retrieve relevant sections  
 - Constructed a simple Streamlit UI with safety disclaimers  
 - Ran tests with common jury-related questions
+- Created `kb_index/` to store precomputed FAISS vector index from legal text files.
+- This avoids rebuilding embeddings every time the chatbot runs.
+- Excluded `.venv/` and `_pycache_/` from repo to keep it clean; users are expected to recreate virtual environments locally per instructions.
 
 ## 4. Implementation
 
