@@ -1,0 +1,55 @@
+# 📚 Lessons Learned: Jury Eligibility Chatbot (v9)
+
+## ✅ What Went Well
+
+- Successfully implemented Retrieval-Augmented Generation (RAG) using Claude on AWS Bedrock
+- Streamlit provided a fast, clean demo UI without front-end overhead
+- Fallback safety message prevented hallucinations
+- Project used only public legal text — no confidential or sensitive data
+- Got a working proof-of-concept running in less than 10 versions
+- Learned how to cite legal rules while remaining neutral and accessible
+
+## 🛠️ Challenges Faced
+
+- FAISS index and Bedrock integration required virtual environment setup
+- PowerShell permissions had to be modified manually
+- LangChain import errors due to deprecations (resolved with langchain_community)
+- Unicode encoding issues with scraped text (resolved by enforcing UTF-8)
+- Edge cases like “I’m not a resident” didn’t match well without better semantic parsing
+
+## 💡 What I Learned About RAG
+
+- RAG isn’t just search + response — it’s how you structure the retrieval *and* the prompt to produce relevant, non-hallucinated output
+- Embedding quality and chunking strategy directly affect performance
+- Plain-language summaries should be layered on top of RAG, not replace it
+- Retrieval makes your chatbot explainable, traceable, and safe for high-stakes use
+
+## 🧭 What I Learned About Iteration and Guardrails
+
+This project taught me that "done" doesn't mean "final" — especially in AI.
+
+Each version uncovered edge cases or mismatches that helped shape the next release. That’s the point of iteration: not to get it perfect, but to keep improving based on real use.
+
+I also learned that **AI in public service needs clarity and constraints**:
+- Guardrails aren’t just technical — they protect trust and prevent confusion.
+- Inference parameters (like temperature or top_p) directly influence tone, confidence, and safety.
+- Sometimes the best answer is “I don’t know, please call our office” — and that’s okay.
+
+Going forward, I’ll treat v10 not as a conclusion, but as a more robust foundation for future learning and refinement.
+
+## 📦 Setup & Deployment Notes
+
+- Virtual environments prevent dependency conflicts and keep your project isolated
+- `load_documents.py` is essential — it converts the legal code into a searchable FAISS vectorstore
+- `.venv` + Streamlit = quick demo loop for non-dev audiences
+
+## 📌 Versioning Matters
+
+- This is version 9 — not perfect, but production-ready enough for a CCC AI Summer Camp demo
+- Iterative releases made it easier to test, tweak, and explain progress
+- Every version taught me something about how AI can serve public systems
+
+## 🔭 Future Mindset
+
+- Focus on clarity, safety, and auditability over flashiness
+- Build with guardrails now so future deployments can scale responsibly
