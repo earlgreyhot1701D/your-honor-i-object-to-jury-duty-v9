@@ -60,10 +60,6 @@ This chatbot is an iterative public service prototype. While version 9 demonstra
 
 This folder contains the pre-built vector index of your legal knowledge base, created using FAISS during the `load_documents.py` step. It allows the chatbot to match juror questions with relevant code sections.
 
-To rebuild this index manually (optional):
-```bash
-python load_documents.py
-
 ## 🧠 Environment Notes (for Developers)
 
 This repo does **not** include the following folders, which are auto-generated when running the chatbot locally:
