@@ -18,7 +18,7 @@ It uses Retrieval-Augmented Generation (RAG) with AWS Bedrock (Claude model), FA
 
 This chatbot is a proof-of-concept built to simulate safe, real-world AI use in government. It demonstrates:
 
-- How public legal codes (CCP §§203–204 and CRC Rule 2.1008) can be embedded and queried using vector search.
+- How public legal codes (CCP §§190–242 and CRC Rule 2.1008) can be embedded and queried using vector search.
 - How Retrieval-Augmented Generation (RAG) enables accurate, citation-backed answers.
 - That AWS Bedrock can be used to safely invoke Claude for legal-adjacent use cases.
 - That Streamlit enables low-code prototyping with a clean, usable front-end.
