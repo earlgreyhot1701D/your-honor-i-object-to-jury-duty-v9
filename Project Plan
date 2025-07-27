@@ -10,13 +10,14 @@ Build a working demo that shows how AI can assist jury operations with clear bou
 
 ## 2. Planning
 
-**Target Audience:**  
+**Target Audience:** 
+- Members of the public (questions about deferrals, excusals, disqualifications)
 - Internal court staff (for onboarding and training)
 - Leadership/stakeholders (for evaluating AI prototypes)
 - Camp mentors and peers (for CCC AI Summer Camp 2025)
 
 **Legal Sources Used:**  
-- California Code of Civil Procedure §§203–204  
+- California Code of Civil Procedure §§190–242  
 - California Rules of Court Rule 2.1008
 
 **Tech Stack:**  
