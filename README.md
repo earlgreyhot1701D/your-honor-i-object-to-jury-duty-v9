@@ -73,11 +73,8 @@ To recreate your environment:
    ```bash
    pip install -r requirements.txt
 
-## 🎥 COMING SOON 
-**Demo Walkthrough Video**: Watch how this chatbot helps jurors get answers from official legal sources, with neutral and accurate language.
-
 ## 📘 Legal Disclaimer
-This app is **not legal advice**. Please call the Jury Office at (805) 882-4530 for official guidance.
+This app is **not legal advice**. 
 
 ## 🙌 Inspiration
 Based on [Ryan Gertz’s Bedrock chatbot repo](https://github.com/RyanGertz/aws-bedrock-streamlit-chat)
