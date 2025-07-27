@@ -27,7 +27,6 @@
 ## 🧭 What I Learned About Iteration and Guardrails
 
 This project taught me that "done" doesn't mean "final" — especially in AI.
-
 Each version uncovered edge cases or mismatches that helped shape the next release. That’s the point of iteration: not to get it perfect, but to keep improving based on real use.
 
 I also learned that **AI in public service needs clarity and constraints**:
@@ -36,12 +35,23 @@ I also learned that **AI in public service needs clarity and constraints**:
 - Sometimes the best answer is “I don’t know, please call our office” — and that’s okay.
 
 Going forward, I’ll treat v10 not as a conclusion, but as a more robust foundation for future learning and refinement.
+### 📚 Working with `kb_index/` – The Vector Index
+
+One important lesson was understanding how the `kb_index/` folder powers the Retrieval-Augmented Generation (RAG) process.
+- **What I Learned**: The chatbot doesn't search plain text directly. Instead, the legal text is transformed into *embeddings* and stored in a FAISS index. This makes it possible for the AI to match juror questions to the right code sections using similarity search.
+- **Why It Matters**: Without this index, the chatbot can’t “look up” answers — and rebuilding it every time would be inefficient. Including the pre-built `kb_index/` in the repo avoids unnecessary compute and startup time.
+- **Gotcha**: If the `kb_index/` folder is missing or corrupted, the chatbot will fail to launch. I added error handling and documentation to avoid confusion for future users.
+- **Takeaway**: Even with simple demos, indexing and embedding logic is critical. This is where retrieval accuracy lives — not just in the model itself.
 
 ## 📦 Setup & Deployment Notes
 
 - Virtual environments prevent dependency conflicts and keep your project isolated
 - `load_documents.py` is essential — it converts the legal code into a searchable FAISS vectorstore
 - `.venv` + Streamlit = quick demo loop for non-dev audiences
+
+## 🧹 Clean Repo Practices
+
+Early versions of the repo included system-generated folders like `.venv/` and `_pycache_/`. I learned that these should be excluded from source control to keep the repo portable and lightweight. Instead, setup instructions are provided to recreate the virtual environment.
 
 ## 📌 Versioning Matters
 
