@@ -1,0 +1,574 @@
+
+TITLE 3. PERSONS SPECIALLY INVESTED WITH POWERS OF A JUDICIAL NATURE [190 - 259]  ( Title 3 repealed and added by Code Amendments 1880, Ch. 35. )
+
+CHAPTER 1. Trial Jury Selection and Management Act [190 - 242]  ( Chapter 1 repealed and added by Stats. 1988, Ch. 1245, Sec. 2. )
+
+190.  This chapter shall be known and may be cited as the Trial Jury Selection and Management Act.
+(Repealed and added by Stats. 1988, Ch. 1245, Sec. 2.)
+
+191.  The Legislature recognizes that trial by jury is a cherished constitutional right, and that jury service is an obligation of citizenship.
+It is the policy of the State of California that all persons selected for jury service shall be selected at random from the population of the area served by the court; that all qualified persons have an equal opportunity, in accordance with this chapter, to be considered for jury service in the state and an obligation to serve as jurors when summoned for that purpose; and that it is the responsibility of jury commissioners to manage all jury systems in an efficient, equitable, and cost-effective manner, in accordance with this chapter.
+(Repealed and added by Stats. 1988, Ch. 1245, Sec. 2.)
+
+192.  This chapter applies to the selection of jurors, and the formation of trial juries, for both civil and criminal cases, in all trial courts of the state.
+(Repealed and added by Stats. 1988, Ch. 1245, Sec. 2.)
+
+193.  Juries are of three kinds:
+(a) Grand juries established pursuant to Title 4 (commencing with Section 888) of Part 2 of the Penal Code.
+(b) Trial juries.
+(c) Juries of inquest.
+(Repealed and added by Stats. 1988, Ch. 1245, Sec. 2.)
+
+194.  The following definitions govern the construction of this chapter:
+(a) “County” means any county or any coterminous city and county.
+(b) “Court” means a superior court of this state, and includes, when the context requires, any judge of the court.
+(c) “Deferred jurors” are those prospective jurors whose request to reschedule their service to a more convenient time is granted by the jury commissioner.
+(d) “Excused jurors” are those prospective jurors who are excused from service by the jury commissioner for valid reasons based on statute, state or local court rules, and policies.
+(e) “Juror pool” means the group of prospective qualified jurors appearing for assignment to trial jury panels.
+(f) “Jury of inquest” is a body of persons summoned from the citizens before the sheriff, coroner, or other ministerial officers, to inquire of particular facts.
+(g) “Master list” means a list of names randomly selected from the source lists.
+(h) “Potential juror” means any person whose name appears on a source list.
+(i) “Prospective juror” means a juror whose name appears on the master list.
+(j) “Qualified juror” means a person who meets the statutory qualifications for jury service.
+(k) “Qualified juror list” means a list of qualified jurors.
+(l) “Random” means that which occurs by mere chance indicating an unplanned sequence of selection where each juror’s name has substantially equal probability of being selected.
+(m) “Source list” means a list used as a source of potential jurors.
+(n) “Summons list” means a list of prospective or qualified jurors who are summoned to appear or to be available for jury service.
+(o) “Trial jurors” are those jurors sworn to try and determine by verdict a question of fact.
+(p) “Trial jury” means a body of persons selected from the citizens of the area served by the court and sworn to try and determine by verdict a question of fact.
+(q) “Trial jury panel” means a group of prospective jurors assigned to a courtroom for the purpose of voir dire.
+(Amended by Stats. 2002, Ch. 784, Sec. 39. Effective January 1, 2003.)
+
+195.  (a) In each county, there shall be one jury commissioner who shall be appointed by, and serve at the pleasure of, a majority of the judges of the superior court. In any county where there is a superior court administrator or executive officer, that person shall serve as ex officio jury commissioner. In any court jurisdiction where any person other than a court administrator or clerk/administrator is serving as jury commissioner on the effective date of this section, that person shall continue to so serve at the pleasure of a majority of the judges of the appointing court.
+(b) Any jury commissioner may, whenever the business of court requires, appoint deputy jury commissioners. Salaries and benefits of those deputies shall be fixed in the same manner as salaries and benefits of other court employees.
+(c) The jury commissioner shall be primarily responsible for managing the jury system under the general supervision of the court in conformance with the purpose and scope of this act. He or she shall have authority to establish policies and procedures necessary to fulfill this responsibility.
+(Amended by Stats. 2002, Ch. 784, Sec. 40. Effective January 1, 2003.)
+
+196.  (a) The jury commissioner or the court shall inquire as to the qualifications of persons on the master list or source list who are or may be summoned for jury service. The commissioner or the court may require any person to answer, under oath, orally or in written form, all questions as may be addressed to that person, regarding the person’s qualifications and ability to serve as a prospective trial juror. The commissioner and his or her assistants shall have power to administer oaths and shall be allowed actual traveling expenses incurred in the performance of their duties.
+(b) Response to the jury commissioner or the court concerning an inquiry or summons may be made by any person having knowledge that the prospective juror is unable to respond to such inquiry or summons.
+(c) Any person who fails to respond to jury commissioner or court inquiry as instructed, may be summoned to appear before the jury commissioner or the court to answer the inquiry, or may be deemed to be qualified for jury service in the absence of a response to the inquiry. Any information thus acquired by the court or jury commissioner shall be noted in jury commissioner or court records.
+(Amended by Stats. 2003, Ch. 149, Sec. 6. Effective January 1, 2004.)
+
+197.  (a) All persons selected for jury service shall be selected at random, from a source or sources inclusive of a representative cross section of the population of the area served by the court. Sources may include, in addition to other lists, customer mailing lists, telephone directories, or utility company lists.
+(b) (1) The list of registered voters and the Department of Motor Vehicles’ list of licensed drivers and identification cardholders resident within the area served by the court, are appropriate source lists for selection of jurors. Until January 1, 2022, only these two source lists, when substantially purged of duplicate names, shall be considered inclusive of a representative cross section of the population, within the meaning of subdivision (a).
+(2) The list of resident state tax filers is an appropriate source list for selection of jurors. Beginning on January 1, 2022, the list of resident state tax filers, the list of registered voters, and the Department of Motor Vehicles’ list of licensed drivers and identification cardholders resident within the area served by the court, when substantially purged of duplicate names, shall be considered inclusive of a representative cross section of the population, within the meaning of subdivision (a).
+
+(c) The Department of Motor Vehicles shall furnish the jury commissioner of each county with the current list of the names, addresses, and other identifying information of persons residing in the county who are age 18 years or older and who are holders of a current driver’s license or identification card issued pursuant to Article 3 (commencing with Section 12800) of, or Article 5 (commencing with Section 13000) of, Chapter 1 of Division 6 of the Vehicle Code. The conditions under which these lists shall be compiled semiannually shall be determined by the director, consistent with any rules which may be adopted by the Judicial Council. This service shall be provided by the Department of Motor Vehicles pursuant to Section 1812 of the Vehicle Code. The jury commissioner shall not disclose the information furnished by the Department of Motor Vehicles pursuant to this section to any person, organization, or agency.
+(d) (1) The Franchise Tax Board shall annually furnish the jury commissioner of each county with a list of resident state tax filers for their county in consultation with the Judicial Council.
+(2) The list of resident state tax filers shall be submitted to the jury commissioner of each county by November 1, 2021, and each November 1 thereafter.
+
+(3) (A) For purposes of this section, “list of resident state tax filers” means a list that includes the name, date of birth, principal residence address, and county of principal residence, of persons who are 18 years of age or older and have filed a California resident income tax return for the preceding taxable year.
+
+(B) For purposes of this paragraph, “county of principal residence” means the county in which the taxpayer has their principal residence on the date that the taxpayer filed their California resident income tax return.
+
+(C) For the purposes of this paragraph, “principal residence” is used in the same manner it is used in Section 121 of the Internal Revenue Code.
+
+(Amended by Stats. 2020, Ch. 230, Sec. 1. (SB 592) Effective January 1, 2021.)
+
+198.  (a) Random selection shall be utilized in creating master and qualified juror lists, commencing with selection from source lists, and continuing through selection of prospective jurors for voir dire.
+(b) The jury commissioner shall, at least once in each 12-month period, randomly select names of prospective trial jurors from the source list or lists, to create a master list.
+(c) The master jury list shall be used by the jury commissioner, as provided by statute and state and local court rules, for the purpose of (1) mailing juror questionnaires and subsequent creation of a qualified juror list, and (2) summoning prospective jurors to respond or appear for qualification and service.
+(Repealed and added by Stats. 1988, Ch. 1245, Sec. 2.)
+
+198.5.  If sessions of the superior court are held in a location other than the county seat, the names for master jury lists and qualified jury lists to serve in a session may be selected from the area in which the session is held, pursuant to a local superior court rule that divides the county in a manner that provides all qualified persons in the county an equal opportunity to be considered for jury service. Nothing in this section precludes the court, in its discretion, from ordering a countywide venire in the interest of justice.
+(Amended (as amended by Stats. 2002, Ch. 784) by Stats. 2003, Ch. 449, Sec. 6. Effective January 1, 2004.)
+
+201.  In any superior court, a separate trial jury panel may be drawn, summoned, and impaneled for each judge, or any one panel may be drawn, summoned, and impaneled by any one of the judges, for use in the trial of cases before any of the judges, as occasion may require. In those courts, when a panel of jurors is in attendance for service before one or more of the judges, whether impaneled for common use or not, the whole or any number of the jurors from such panel may be required to attend and serve in the trial of cases, or to complete a panel, or jury, before any other of the judges.
+(Amended by Stats. 2002, Ch. 784, Sec. 47. Effective January 1, 2003.)
+
+202.  Mechanical, electric, or electronic equipment, which in the opinion of the jury commissioner is satisfactory therefor, may be used in the performance of any function specified by this chapter for the selection and drawing of jurors.
+(Added by Stats. 1988, Ch. 1245, Sec. 2.)
+
+203.  (a) All persons are eligible and qualified to be prospective trial jurors, except the following:
+(1) Persons who are not citizens of the United States.
+
+(2) Persons who are less than 18 years of age.
+
+(3) Persons who are not domiciliaries of the State of California, as determined pursuant to Article 2 (commencing with Section 2020) of Chapter 1 of Division 2 of the Elections Code.
+
+(4) Persons who are not residents of the jurisdiction wherein they are summoned to serve.
+
+(5) Persons who have been convicted of malfeasance in office and whose civil rights have not been restored.
+
+(6) Persons who are not possessed of sufficient knowledge of the English language, provided that no person shall be deemed incompetent solely because of the loss of sight or hearing in any degree or other disability which impedes the person’s ability to communicate or which impairs or interferes with the person’s mobility.
+
+(7) Persons who are serving as grand or trial jurors in any court of this state.
+
+(8) Persons who are the subject of conservatorship.
+
+(9) Persons while they are incarcerated in any prison or jail.
+
+(10) Persons who have been convicted of a felony and are currently on parole, postrelease community supervision, felony probation, or mandated supervision for the conviction of a felony.
+
+(11)  Persons who are currently required to register as a sex offender pursuant to Section 290 of the Penal Code based on a felony conviction.
+
+(b) No person shall be excluded from eligibility for jury service in the State of California, for any reason other than those reasons provided by this section.
+(c) The provisions of this section are severable. If any provision of this section or its application is held invalid, that invalidity shall not affect other provisions or applications that can be given effect without the invalid provision or application.
+(Amended by Stats. 2019, Ch. 591, Sec. 1. (SB 310) Effective January 1, 2020.)
+
+204.  (a) No eligible person shall be exempt from service as a trial juror by reason of occupation, economic status, or any characteristic listed or defined in Section 11135 of the Government Code, or for any other reason. No person shall be excused from service as a trial juror except as specified in subdivision (b).
+(b) An eligible person may be excused from jury service only for undue hardship, upon themselves or upon the public, as defined by the Judicial Council.
+(Amended by Stats. 2007, Ch. 568, Sec. 15. Effective January 1, 2008.)
+
+205.  (a) If a jury commissioner requires a person to complete a questionnaire, the questionnaire shall ask only questions related to juror identification, qualification, and ability to serve as a prospective juror.
+(b) Except as ordered by the court, the questionnaire referred to in subdivision (a) shall be used solely for qualifying prospective jurors, and for management of the jury system, and not for assisting in the courtroom voir dire process of selecting trial jurors for specific cases.
+(c) The court may require a prospective juror to complete such additional questionnaires as may be deemed relevant and necessary for assisting in the voir dire process or to ascertain whether a fair cross section of the population is represented as required by law, if such procedures are established by local court rule.
+(d) The trial judge may direct a prospective juror to complete additional questionnaires as proposed by counsel in a particular case to assist the voir dire process.
+(e) This section shall remain in effect only until January 1, 2026, and as of that date is repealed.
+(Amended by Stats. 2024, Ch. 812, Sec. 11. (AB 1899) Effective January 1, 2025. Repealed as of January 1, 2026, by its own provisions. See later operative version added by Sec. 12 of Stats. 2024, Ch. 812.)
+
+205.  (a) If a jury commissioner requires a person to complete a questionnaire, the questionnaire shall ask only questions related to juror identification, qualification, and ability to serve as a prospective juror.
+(b) Except as ordered by the court, the questionnaire referred to in subdivision (a) shall be used solely for qualifying prospective jurors, and for management of the jury system, and not for assisting in the courtroom voir dire process of selecting trial jurors for specific cases.
+(c) The court may require a prospective juror to complete such additional questionnaires as may be deemed relevant and necessary for assisting in the voir dire process or to ascertain whether a fair cross section of the population is represented as required by law, if such procedures are established by local court rule.
+(d) The trial judge may direct a prospective juror to complete additional questionnaires as proposed by counsel in a particular case to assist the voir dire process.
+(e) The Judicial Council shall adopt a standard of judicial administration to ensure that juror identification and any juror questionnaire is inclusive, including allowing a juror the ability to express their gender identity or gender expression, if applicable.
+(f) This section shall become operative on January 1, 2026.
+(Repealed (in Sec. 11) and added by Stats. 2024, Ch. 812, Sec. 12. (AB 1899) Effective January 1, 2025. Operative January 1, 2026, by its own provisions.)
+
+206.  (a) Prior to discharging the jury from the case, the judge in a criminal action shall inform the jurors that they have an absolute right to discuss or not to discuss the deliberation or verdict with anyone. The judge shall also inform the jurors of the provisions set forth in subdivisions (b), (d), and (e).
+(b) Following the discharge of the jury in a criminal case, the defendant, or his or her attorney or representative, or the prosecutor, or his or her representative, may discuss the jury deliberation or verdict with a member of the jury, provided that the juror consents to the discussion and that the discussion takes place at a reasonable time and place.
+(c) If a discussion of the jury deliberation or verdict with a member of the jury pursuant to subdivision (b) occurs at any time more than 24 hours after the verdict, prior to discussing the jury deliberation or verdict with a member of a jury pursuant to subdivision (b), the defendant or his or her attorney or representative, or the prosecutor or his or her representative, shall inform the juror of the identity of the case, the party in that case which the person represents, the subject of the interview , the absolute right of the juror to discuss or not discuss the deliberations or verdict in the case with the person, and the juror’s right to review and have a copy of any declaration filed with the court.
+(d) Any unreasonable contact with a juror by the defendant, or his or her attorney or representative, or by the prosecutor, or his or her representative, without the juror’s consent shall be immediately reported to the trial judge.
+(e) Any violation of this section shall be considered a violation of a lawful court order and shall be subject to reasonable monetary sanctions in accordance with Section 177.5 of the Code of Civil Procedure.
+(f) Nothing in the section shall prohibit a peace officer from investigating an allegation of criminal conduct.
+(g) Pursuant to Section 237, a defendant or defendant’s counsel may, following the recording of a jury’s verdict in a criminal proceeding, petition the court for access to personal juror identifying information within the court’s records necessary for the defendant to communicate with jurors for the purpose of developing a motion for new trial or any other lawful purpose. This information consists of jurors’ names, addresses, and telephone numbers. The court shall consider all requests for personal juror identifying information pursuant to Section 237.
+(Amended by Stats. 2000, Ch. 242, Sec. 1. Effective January 1, 2001.)
+
+207.  (a) The jury commissioner shall maintain records regarding selection, qualification, and assignment of prospective jurors.
+(b) The jury commissioner shall maintain records providing a clear audit trail regarding a juror’s attendance, jury fees, and mileage.
+(c) All records and papers maintained or compiled by the jury commissioner in connection with the selection or service of a juror may be kept on an electronic or microfilm medium and such records shall be preserved for at least three years after the list used in their selection is prepared, or for any longer period ordered by the court or the jury commissioner.
+(Added by Stats. 1988, Ch. 1245, Sec. 2.)
+
+208.  The jury commissioner shall estimate the number of prospective jurors that may be required to serve the needs of the court, and shall summon prospective jurors for service. Prospective jurors shall be summoned by mailing a summons by first-class mail or by personal service or, in urgency situations, as elsewhere provided by law. The summons, when served by mail, shall be mailed at least 10 days prior to the date of required appearance. Once a prospective juror has been summoned, the date, time, or place of appearance may be modified or further specified by the jury commissioner, by means of written, telegraphic, telephonic, or direct oral communication with the prospective juror.
+(Amended by Stats. 2003, Ch. 149, Sec. 7. Effective January 1, 2004.)
+
+209.  (a) Any prospective trial juror who has been summoned for service, and who fails to attend as directed or to respond to the court or jury commissioner and to be excused from attendance, may be attached and compelled to attend. Following an order to show cause hearing, the court may find the prospective juror in contempt of court, punishable by fine, incarceration, or both, as otherwise provided by law.
+(b) In lieu of imposing sanctions for contempt as set forth in subdivision (a), the court may impose reasonable monetary sanctions, as provided in this subdivision, on a prospective juror who has not been excused pursuant to Section 204 after first providing the prospective juror with notice and an opportunity to be heard. If a juror fails to respond to the initial summons the court may issue a second summons indicating that the person failed to appear in response to a previous summons and ordering the person to appear for jury duty. The second summons may be issued no earlier than 90 days after the initial failure to appear. Upon the failure of the juror to appear in response to the second summons, the court may issue a failure to appear notice informing the person that failure to respond may result in the imposition of money sanctions. If the prospective juror does not attend the court within the time period as directed by the failure to appear notice, the court shall issue an order to show cause. Payment of monetary sanctions imposed pursuant to this subdivision does not relieve the person of his or her obligation to perform jury duty.
+(c) (1) The court may give notice of its intent to impose sanctions by either of the following means:
+(A) Verbally to a prospective juror appearing in person in open court.
+
+(B) The issuance on its own motion of an order to show cause requiring the prospective juror to demonstrate reasons for not imposing sanctions. The court may serve the order to show cause by certified or first-class mail.
+
+(2) The monetary sanctions imposed pursuant to subdivision (b) may not exceed two hundred fifty dollars ($250) for the first violation, seven hundred fifty dollars ($750) for the second violation, and one thousand five hundred dollars ($1,500) for the third and any subsequent violation. Monetary sanctions may not be imposed on a prospective juror more than once during a single juror pool cycle. The prospective juror may be excused from paying sanctions pursuant to subdivision (b) of Section 204 or in the interests of justice. The full amount of any sanction paid shall be deposited in a bank account established for this purpose by the Administrative Office of the Courts and transmitted from that account monthly to the Controller for deposit in the Trial Court Trust Fund, as provided in Section 68085.1 of the Government Code. It is the intent of the Legislature that the funds derived from the monetary sanctions authorized in this section be allocated, to the extent feasible, to the family courts and the civil courts. The Judicial Council shall, by rule, provide for a procedure by which a prospective juror against whom a sanction has been imposed by default may move to set aside the default.
+
+(Amended (as amended by Stats. 2006, Ch. 567, Sec. 5) by Stats. 2009, Ch. 44, Sec. 1. (SB 319) Effective January 1, 2010. Note: This amendment deleted the former Jan. 1, 2010, repeal date and extended this version's provisions indefinitely.)
+
+210.  The summons shall contain the date, time, and place of appearance required of the prospective juror or, alternatively, instructions as to the procedure for calling the jury commissioner for telephonic instructions for appearance as well as such additional juror information as deemed appropriate by the jury commissioner.
+(Added by Stats. 1988, Ch. 1245, Sec. 2.)
+
+210.5.  The Judicial Council shall adopt a standardized jury summons for use, with appropriate modifications, around the state, that is understandable and has consumer appeal. The standardized jury summons shall include a specific reference to the rules for breast-feeding mothers. The use of the standardized jury summons shall be voluntary, unless otherwise prescribed by the rules of court.
+(Added by Stats. 2000, Ch. 266, Sec. 2. Effective January 1, 2001.)
+
+211.  When a court has no prospective jurors remaining available for voir dire from panels furnished by, or available from, the jury commissioner, and finds that not proceeding with voir dire will place a party’s right to a trial by jury in jeopardy, the court may direct the sheriff or marshal to summon, serve, and immediately attach the person of a sufficient number of citizens having the qualifications of jurors, to complete the panel.
+(Amended by Stats. 1996, Ch. 872, Sec. 7. Effective January 1, 1997.)
+
+213.  Unless excused by reason of undue hardship, all or any portion of the summoned prospective jurors shall be available on one-hour notice by telephone to appear for service, when the jury commissioner determines that it will efficiently serve the operational requirements of the court.
+Jurors available on one-hour telephone notice shall receive credit for each day of such availability towards their jury service obligation, but they shall not be paid unless they are actually required to make an appearance.
+(Added by Stats. 1988, Ch. 1245, Sec. 2.)
+
+214.  The jury commissioner shall provide orientation for new jurors, which shall include necessary basic information concerning jury service. The jury commissioner shall notify each juror of paragraph (1) of subdivision (a) of Section 12945.8 of the Government Code.
+(Amended by Stats. 2024, Ch. 967, Sec. 1. (AB 2499) Effective January 1, 2025.)
+
+215.  (a) Except as provided in subdivision (b), on and after July 1, 2000, the fee for jurors in the superior court, in civil and criminal cases, is fifteen dollars ($15) a day for each day’s attendance as a juror after the first day.
+(b) A juror who is employed by a federal, state, or local government entity, or by any other public entity as defined in Section 481.200, and who receives regular compensation and benefits while performing jury service, shall not be paid the fee described in subdivision (a).
+(c) All jurors in the superior court, in civil and criminal cases, shall be reimbursed for mileage at the rate of thirty-four cents ($0.34) per mile for each mile actually traveled in attending and returning from court as a juror after the first day.
+(d) All jurors and prospective jurors who have been summoned shall be provided with access to existing public transit services at no cost utilizing one of the following options:
+(1) Courts may partner with public transit operators in their county to create new programs or continue existing public transit programs that provide no-cost service for jurors and prospective jurors who have been summoned.
+
+(2) A method of reimbursement determined by the court up to a daily maximum of twelve dollars ($12).
+
+(e) Subdivision (d) does not apply to a court in an area where a public transit operator does not provide existing service that is reasonably available to the court facility.
+(f) In determining whether transit service is reasonably available to the court facility, the court shall consider factors that include, but are not limited to, all of the following:
+(1) Proximity of transit service to the court location.
+
+(2) Hours of operation of transit service in the vicinity of the court location.
+
+(3) Frequency of operation of transit service in the vicinity of the court location.
+
+(4) Availability of transit access to all areas of the court’s jurisdiction from which a potential juror may reside.
+
+(g) Prior to determining that transit service is not reasonably available to the court facility, the court shall contact the public transit operator to inquire whether new transit options may be implemented near the court.
+(Amended by Stats. 2022, Ch. 326, Sec. 2. (AB 1981) Effective January 1, 2023.)
+
+216.  (a) At each court facility where jury cases are heard, the court shall provide a deliberation room or rooms for use of jurors when they have retired for deliberation. The deliberation rooms shall be designed to minimize unwarranted intrusions by other persons in the court facility, shall have suitable furnishings, equipment, and supplies, and shall also have restroom accommodations for male and female jurors.
+(b) Unless authorized by the jury commissioner, jury assembly facilities shall be restricted to use by jurors and jury commissioner staff.
+(Amended by Stats. 2020, Ch. 210, Sec. 1. (AB 1984) Effective January 1, 2021.)
+
+217.  In criminal cases only, while the jury is kept together, either during the progress of the trial or after their retirement for deliberation, the court may direct the sheriff or marshal to provide the jury with suitable and sufficient food and lodging, or other reasonable necessities. The expenses incurred under this section shall be charged against the Trial Court Operations Fund of the county in which the court is held. All those expenses shall be paid on the order of the court.
+(Amended by Stats. 2002, Ch. 784, Sec. 49. Effective January 1, 2003.)
+
+218.  The jury commissioner shall hear the excuses of jurors summoned, in accordance with the standards prescribed by the Judicial Council. It shall be left to the discretion of the jury commissioner to accept an excuse under subdivision (b) of Section 204 without a personal appearance. All excuses shall be in writing setting forth the basis of the request and shall be signed by the juror.
+(Added by Stats. 1988, Ch. 1245, Sec. 2.)
+
+219.  (a) Except as provided in subdivision (b), the jury commissioner shall randomly select jurors for jury panels to be sent to courtrooms for voir dire.
+(b) (1) Notwithstanding subdivision (a), no peace officer, as defined in Section 830.1, subdivision (a) of Section 830.2, and subdivision (a) of Section 830.33, of the Penal Code, shall be selected for voir dire in civil or criminal matters.
+(2) Notwithstanding subdivision (a), no peace officer, as defined in subdivisions (b) and (c) of Section 830.2 of the Penal Code, shall be selected for voir dire in criminal matters.
+
+(Amended by Stats. 2001, Ch. 55, Sec. 1. Effective January 1, 2002.)
+
+219.5.  The Judicial Council shall adopt a rule of court, on or before January 1, 2005, requiring the trial courts to establish procedures for jury service that gives peace officers, as defined by Section 830.5 of the Penal Code, scheduling accommodations when necessary.
+(Added by Stats. 2003, Ch. 353, Sec. 1. Effective January 1, 2004.)
+
+220.  A trial jury shall consist of 12 persons, except that in civil actions and cases of misdemeanor, it may consist of 12 or any number less than 12, upon which the parties may agree.
+(Added by Stats. 1988, Ch. 1245, Sec. 2.)
+
+222.  (a) Except as provided in subdivision (b), when an action is called for trial by jury, the clerk shall randomly select the names of the jurors for voir dire, until the jury is selected or the panel is exhausted.
+(b) When the jury commissioner has provided the court with a listing of the trial jury panel in random order, the court shall seat prospective jurors for voir dire in the order provided by the panel list.
+(Amended by Stats. 2007, Ch. 263, Sec. 4. Effective January 1, 2008.)
+
+222.5.  (a) To select a fair and impartial jury in a civil jury trial, the trial judge shall conduct an initial examination of prospective jurors. At the final status conference or at the first practical opportunity prior to voir dire, whichever comes first, the trial judge shall consider and discuss with counsel the form and subject matter of voir dire questions. Before voir dire by the trial judge, the parties may submit questions to the trial judge. The trial judge may include additional questions requested by the parties as the trial judge deems proper.
+(b) (1) Upon completion of the trial judge’s initial examination, counsel for each party shall have the right to examine, by oral and direct questioning, any of the prospective jurors in order to enable counsel to intelligently exercise both peremptory challenges and challenges for cause. The scope of the examination conducted by counsel shall be within reasonable limits prescribed by the trial judge in the judge’s sound discretion subject to the provisions of this chapter. During any examination conducted by counsel for the parties, the trial judge shall permit liberal and probing examination calculated to discover bias or prejudice with regard to the circumstances of the particular case before the court. The fact that a topic has been included in the trial judge’s examination shall not preclude appropriate followup questioning in the same area by counsel. The trial judge shall permit counsel to conduct voir dire examination without requiring prior submission of the questions unless a particular counsel engages in improper questioning.
+(2) The trial judge shall not impose specific unreasonable or arbitrary time limits or establish an inflexible time limit policy for voir dire.
+
+(3) For purposes of this section, an “improper question” is any question that, as its dominant purpose, attempts to precondition the prospective jurors to a particular result, indoctrinate the jury, or question the prospective jurors concerning the pleadings or the applicable law.
+
+(c) (1) In exercising the judge’s sound discretion, the trial judge shall give due consideration to all of the following:
+(A) The amount of time requested by trial counsel.
+
+(B) Any unique or complex elements, legal or factual, in the case.
+
+(C) Length of the trial.
+
+(D) Number of parties.
+
+(E) Number of witnesses.
+
+(F) Whether the case is designated as a complex or long cause.
+
+(2) As voir dire proceeds, the judge shall permit supplemental time for questioning based on any of the following:
+
+(A) Individual responses or conduct of jurors that may evince attitudes inconsistent with suitability to serve as a fair and impartial juror in the particular case.
+
+(B) Composition of the jury panel.
+
+(C) An unusual number of for cause challenges.
+
+(d) Upon the request of a party, the trial judge shall allow a brief opening statement by counsel for each party prior to the commencement of the oral questioning phase of the voir dire process.
+(e) In civil cases, the trial judge may, upon stipulation by counsel for all the parties appearing in the action, permit counsel to examine the prospective jurors outside a judge’s presence.
+(f) A trial judge shall not arbitrarily or unreasonably refuse to submit reasonable written questionnaires, the contents of which are determined by the court in its sound discretion, when requested by counsel. If a questionnaire is utilized, the parties shall be given reasonable time to evaluate the responses to the questionnaires before oral questioning commences.
+(g) To help facilitate the jury selection process, at the earliest practical time, the judge in a civil trial shall provide the parties with both the alphabetical list and the list of prospective jurors in the order in which they will be called.
+(Amended by Stats. 2017, Ch. 337, Sec. 1. (SB 658) Effective January 1, 2018.)
+
+223.  (a) To select a fair and impartial jury in a criminal jury trial, the trial judge shall conduct an initial examination of prospective jurors. At the first practical opportunity prior to voir dire, the trial judge shall consider the form and subject matter of voir dire questions. Before voir dire by the trial judge, the parties may submit questions to the trial judge. The trial judge may include additional questions requested by the parties as the trial judge deems proper.
+(b) (1) Upon completion of the trial judge’s initial examination, counsel for each party shall have the right to examine, by oral and direct questioning, any of the prospective jurors. The scope of the examination conducted by counsel shall be within reasonable limits prescribed by the trial judge in the judge’s sound discretion subject to the provisions of this chapter. During any examination conducted by counsel for the parties, the trial judge shall permit liberal and probing examination calculated to discover bias or prejudice with regard to the circumstances of the particular case or the parties before the court. The fact that a topic has been included in the trial judge’s examination shall not preclude appropriate followup questioning in the same area by counsel. The trial judge should permit counsel to conduct voir dire examination without requiring prior submission of the questions unless a particular counsel engages in improper questioning.
+(2) The trial judge shall not impose specific unreasonable or arbitrary time limits or establish an inflexible time limit policy for voir dire. As voir dire proceeds, the trial judge shall permit supplemental time for questioning based on individual responses or conduct of jurors that may evince attitudes inconsistent with suitability to serve as a fair and impartial juror in the particular case.
+
+(3) For purposes of this section, an “improper question” is any question that, as its dominant purpose, attempts to precondition the prospective jurors to a particular result or indoctrinate the jury.
+
+(c) In exercising the judge’s sound discretion, the trial judge shall consider all of the following:
+(1) The amount of time requested by trial counsel.
+
+(2) Any unique or complex legal or factual elements in the case.
+
+(3) The length of the trial.
+
+(4) The number of parties.
+
+(5) The number of witnesses.
+
+(d) Voir dire of any prospective jurors shall, where practicable, take place in the presence of the other jurors in all criminal cases, including death penalty cases. Examination of prospective jurors shall be conducted only in aid of the exercise of challenges for cause.
+(e) The trial judge shall, in his or her sound discretion, consider reasonable written questionnaires when requested by counsel. If a questionnaire is utilized, the parties shall be given reasonable time to evaluate the responses to the questionnaires before oral questioning commences.
+(f) To help facilitate the jury selection process, at the earliest practical time, the trial judge in a criminal trial shall provide the parties with the list of prospective jurors in the order in which they will be called.
+(g) The trial judge’s exercise of discretion in the manner in which voir dire is conducted, including any limitation on the time that will be allowed for direct questioning of prospective jurors by counsel and any determination that a question is not in aid of the exercise of challenges for cause, is not cause for a conviction to be reversed, unless the exercise of that discretion results in a miscarriage of justice, as specified in Section 13 of Article VI of the California Constitution.
+(Repealed and added by Stats. 2017, Ch. 302, Sec. 2. (AB 1541) Effective January 1, 2018. Note: This section was added on June 5, 1990, by initiative Prop. 115 (the Crime Victims Justice Reform Act).)
+
+224.  (a) If a party does not cause the removal by challenge of an individual juror who is deaf, hard of hearing, blind, visually impaired, or speech impaired and who requires auxiliary services to facilitate communication, the party shall stipulate to the presence of a service provider in the jury room during jury deliberations, and prepare and deliver to the court proposed jury instructions to the service provider.
+(b) As used in this section, “service provider” includes, but is not limited to, a person who is a sign language interpreter, oral interpreter, deaf-blind interpreter, reader, or speech interpreter. If auxiliary services are required during the course of jury deliberations, the court shall instruct the jury and the service provider that the service provider for the juror with a disability is not to participate in the jury’s deliberations in any manner except to facilitate communication between the juror with a disability and other jurors.
+(c) The court shall appoint a service provider whose services are needed by a juror with a disability to facilitate communication or participation. A sign language interpreter, oral interpreter, or deaf-blind interpreter appointed pursuant to this section shall be a qualified interpreter, as defined in subdivision (f) of Section 754 of the Evidence Code. Service providers appointed by the court under this subdivision shall be compensated in the same manner as provided in subdivision (i) of Section 754 of the Evidence Code.
+(Amended by Stats. 2016, Ch. 94, Sec. 3. (AB 1709) Effective January 1, 2017.)
+
+225.  A challenge is an objection made to the trial jurors that may be taken by any party to the action, and is of the following classes and types:
+(a) A challenge to the trial jury panel for cause.
+(1) A challenge to the panel may only be taken before a trial jury is sworn. The challenge shall be reduced to writing, and shall plainly and distinctly state the facts constituting the ground of challenge.
+
+(2) Reasonable notice of the challenge to the jury panel shall be given to all parties and to the jury commissioner, by service of a copy thereof.
+
+(3) The jury commissioner shall be permitted the services of legal counsel in connection with challenges to the jury panel.
+
+(b) A challenge to a prospective juror by either:
+(1) A challenge for cause, for one of the following reasons:
+
+(A) General disqualification—that the juror is disqualified from serving in the action on trial.
+
+(B) Implied bias—as, when the existence of the facts as ascertained, in judgment of law disqualifies the juror.
+
+(C) Actual bias—the existence of a state of mind on the part of the juror in reference to the case, or to any of the parties, which will prevent the juror from acting with entire impartiality, and without prejudice to the substantial rights of any party.
+
+(2) A peremptory challenge to a prospective juror.
+
+(Repealed and added by Stats. 1988, Ch. 1245, Sec. 2.)
+
+226.  (a) A challenge to an individual juror may only be made before the jury is sworn.
+(b) A challenge to an individual juror may be taken orally or may be made in writing, but no reason need be given for a peremptory challenge, and the court shall exclude any juror challenged peremptorily.
+(c) All challenges for cause shall be exercised before any peremptory challenges may be exercised.
+(d) All challenges to an individual juror, except a peremptory challenge, shall be taken, first by the defendants, and then by the people or plaintiffs.
+(Repealed and added by Stats. 1988, Ch. 1245, Sec. 2.)
+
+227.  The challenges of either party for cause need not all be taken at once, but they may be taken separately, in the following order, including in each challenge all the causes of challenge belonging to the same class and type:
+(a) To the panel.
+(b) To an individual juror, for a general disqualification.
+(c) To an individual juror, for an implied bias.
+(d) To an individual juror, for an actual bias.
+(Repealed and added by Stats. 1988, Ch. 1245, Sec. 2.)
+
+228.  Challenges for general disqualification may be taken on one or both of the following grounds, and for no other:
+(a) A want of any of the qualifications prescribed by this code to render a person competent as a juror.
+(b) The existence of any incapacity which satisfies the court that the challenged person is incapable of performing the duties of a juror in the particular action without prejudice to the substantial rights of the challenging party.
+(Amended by Stats. 2002, Ch. 1008, Sec. 1. Effective January 1, 2003.)
+
+229.  A challenge for implied bias may be taken for one or more of the following causes, and for no other:
+(a) Consanguinity or affinity within the fourth degree to any party, to an officer of a corporation which is a party, or to any alleged witness or victim in the case at bar.
+(b) Standing in the relation of, or being the parent, spouse, or child of one who stands in the relation of, guardian and ward, conservator and conservatee, master and servant, employer and clerk, landlord and tenant, principal and agent, or debtor and creditor, to either party or to an officer of a corporation which is a party, or being a member of the family of either party; or a partner in business with either party; or surety on any bond or obligation for either party, or being the holder of bonds or shares of capital stock of a corporation which is a party; or having stood within one year previous to the filing of the complaint in the action in the relation of attorney and client with either party or with the attorney for either party. A depositor of a bank or a holder of a savings account in a savings and loan association shall not be deemed a creditor of that bank or savings and loan association for the purpose of this paragraph solely by reason of his or her being a depositor or account holder.
+(c) Having served as a trial or grand juror or on a jury of inquest in a civil or criminal action or been a witness on a previous or pending trial between the same parties, or involving the same specific offense or cause of action; or having served as a trial or grand juror or on a jury within one year previously in any criminal or civil action or proceeding in which either party was the plaintiff or defendant or in a criminal action where either party was the defendant.
+(d) Interest on the part of the juror in the event of the action, or in the main question involved in the action, except his or her interest as a member or citizen or taxpayer of a county, city and county, incorporated city or town, or other political subdivision of a county, or municipal water district.
+(e) Having an unqualified opinion or belief as to the merits of the action founded upon knowledge of its material facts or of some of them.
+(f) The existence of a state of mind in the juror evincing enmity against, or bias towards, either party.
+(g) That the juror is party to an action pending in the court for which he or she is drawn and which action is set for trial before the panel of which the juror is a member.
+(h) If the offense charged is punishable with death, the entertaining of such conscientious opinions as would preclude the juror finding the defendant guilty; in which case the juror may neither be permitted nor compelled to serve.
+(Added by Stats. 1988, Ch. 1245, Sec. 2.)
+
+230.  Challenges for cause shall be tried by the court. The juror challenged and any other person may be examined as a witness in the trial of the challenge, and shall truthfully answer all questions propounded to them.
+(Added by Stats. 1988, Ch. 1245, Sec. 2.)
+
+231.  (a) In criminal cases, if the offense charged is punishable with death, or with imprisonment in the state prison for life, the defendant is entitled to 20 and the people to 20 peremptory challenges. Except as provided in subdivision (b), in a trial for any other offense, the defendant is entitled to 10 and the state to 10 peremptory challenges. When two or more defendants are jointly tried, their challenges shall be exercised jointly, but each defendant shall also be entitled to five additional challenges which may be exercised separately, and the people shall also be entitled to additional challenges equal to the number of all the additional separate challenges allowed the defendants.
+(b) If the offense charged is punishable with a maximum term of imprisonment of 90 days or less, the defendant is entitled to six and the state to six peremptory challenges. When two or more defendants are jointly tried, their challenges shall be exercised jointly, but each defendant shall also be entitled to four additional challenges which may be exercised separately, and the state shall also be entitled to additional challenges equal to the number of all the additional separate challenges allowed the defendants.
+(c) In civil cases, each party shall be entitled to six peremptory challenges. If there are more than two parties, the court shall, for the purpose of allotting peremptory challenges, divide the parties into two or more sides according to their respective interests in the issues. Each side shall be entitled to eight peremptory challenges. If there are several parties on a side, the court shall divide the challenges among them as nearly equally as possible. If there are more than two sides, the court shall grant such additional peremptory challenges to a side as the interests of justice may require, provided that the peremptory challenges of one side shall not exceed the aggregate number of peremptory challenges of all other sides. If any party on a side does not use his or her full share of peremptory challenges, the unused challenges may be used by the other party or parties on the same side.
+(d) Peremptory challenges shall be taken or passed by the sides alternately, commencing with the plaintiff or people, and each party shall be entitled to have the panel full before exercising any peremptory challenge. When each side passes consecutively, the jury shall then be sworn, unless the court, for good cause, shall otherwise order. The number of peremptory challenges remaining with a side shall not be diminished by any passing of a peremptory challenge.
+(e) If all the parties on both sides pass consecutively, the jury shall then be sworn, unless the court, for good cause, shall otherwise order. The number of peremptory challenges remaining with a side shall not be diminished by any passing of a peremptory challenge.
+(f) This section shall become operative on January 1, 2021.
+(Repealed (in Sec. 2) and added by Stats. 2016, Ch. 33, Sec. 3. (SB 843) Effective June 27, 2016. Section operative January 1, 2021, by its own provisions.)
+
+231.5.  A party shall not use a peremptory challenge to remove a prospective juror on the basis of an assumption that the prospective juror is biased merely because of a characteristic listed or defined in Section 11135 of the Government Code, or similar grounds.
+(Amended by Stats. 2015, Ch. 115, Sec. 1. (AB 87) Effective January 1, 2016.)
+
+231.7.  (a) A party shall not use a peremptory challenge to remove a prospective juror on the basis of the prospective juror’s race, ethnicity, gender, gender identity, sexual orientation, national origin, or religious affiliation, or the perceived membership of the prospective juror in any of those groups.
+(b) A party, or the trial court on its own motion, may object to the improper use of a peremptory challenge under subdivision (a). After the objection is made, any further discussion shall be conducted outside the presence of the panel. The objection shall be made before the jury is impaneled, unless information becomes known that could not have reasonably been known before the jury was impaneled.
+(c) Notwithstanding Section 226, upon objection to the exercise of a peremptory challenge pursuant to this section, the party exercising the peremptory challenge shall state the reasons the peremptory challenge has been exercised.
+(d) (1) The court shall evaluate the reasons given to justify the peremptory challenge in light of the totality of the circumstances. The court shall consider only the reasons actually given and shall not speculate on, or assume the existence of, other possible justifications for the use of the peremptory challenge. If the court determines there is a substantial likelihood that an objectively reasonable person would view race, ethnicity, gender, gender identity, sexual orientation, national origin, or religious affiliation, or perceived membership in any of those groups, as a factor in the use of the peremptory challenge, then the objection shall be sustained. The court need not find purposeful discrimination to sustain the objection. The court shall explain the reasons for its ruling on the record. A motion brought under this section shall also be deemed a sufficient presentation of claims asserting the discriminatory exclusion of jurors in violation of the United States and California Constitutions.
+(2) (A) For purposes of this section, an objectively reasonable person is aware that unconscious bias, in addition to purposeful discrimination, have resulted in the unfair exclusion of potential jurors in the State of California.
+
+(B) For purposes of this section, a “substantial likelihood” means more than a mere possibility but less than a standard of more likely than not.
+
+(C) For purposes of this section, “unconscious bias” includes implicit and institutional biases.
+
+(3) In making its determination, the circumstances the court may consider include, but are not limited to, any of the following:
+
+(A) Whether any of the following circumstances exist:
+
+(i) The objecting party is a member of the same perceived cognizable group as the challenged juror.
+
+(ii) The alleged victim is not a member of that perceived cognizable group.
+
+(iii) Witnesses or the parties are not members of that perceived cognizable group.
+
+(B) Whether race, ethnicity, gender, gender identity, sexual orientation, national origin, or religious affiliation, or perceived membership in any of those groups, bear on the facts of the case to be tried.
+
+(C) The number and types of questions posed to the prospective juror, including, but not limited to, any the following:
+
+(i) Consideration of whether the party exercising the peremptory challenge failed to question the prospective juror about the concerns later stated by the party as the reason for the peremptory challenge pursuant to subdivision (c).
+
+(ii) Whether the party exercising the peremptory challenge engaged in cursory questioning of the challenged potential juror.
+
+(iii) Whether the party exercising the peremptory challenge asked different questions of the potential juror against whom the peremptory challenge was used in contrast to questions asked of other jurors from different perceived cognizable groups about the same topic or whether the party phrased those questions differently.
+
+(D) Whether other prospective jurors, who are not members of the same cognizable group as the challenged prospective juror, provided similar, but not necessarily identical, answers but were not the subject of a peremptory challenge by that party.
+
+(E) Whether a reason might be disproportionately associated with a race, ethnicity, gender, gender identity, sexual orientation, national origin, or religious affiliation, or perceived membership in any of those groups.
+
+(F) Whether the reason given by the party exercising the peremptory challenge was contrary to or unsupported by the record.
+
+(G) Whether the counsel or counsel’s office exercising the challenge has used peremptory challenges disproportionately against a given race, ethnicity, gender, gender identity, sexual orientation, national origin, or religious affiliation, or perceived membership in any of those groups, in the present case or in past cases, including whether the counsel or counsel’s office who made the challenge has a history of prior violations under Batson v. Kentucky (1986) 476 U.S. 79, People v. Wheeler (1978) 22 Cal.3d 258, Section 231.5, or this section.
+
+(e) A peremptory challenge for any of the following reasons is presumed to be invalid unless the party exercising the peremptory challenge can show by clear and convincing evidence that an objectively reasonable person would view the rationale as unrelated to a prospective juror’s race, ethnicity, gender, gender identity, sexual orientation, national origin, or religious affiliation, or perceived membership in any of those groups, and that the reasons articulated bear on the prospective juror’s ability to be fair and impartial in the case:
+(1) Expressing a distrust of or having a negative experience with law enforcement or the criminal legal system.
+
+(2) Expressing a belief that law enforcement officers engage in racial profiling or that criminal laws have been enforced in a discriminatory manner.
+
+(3) Having a close relationship with people who have been stopped, arrested, or convicted of a crime.
+
+(4) A prospective juror’s neighborhood.
+
+(5) Having a child outside of marriage.
+
+(6) Receiving state benefits.
+
+(7) Not being a native English speaker.
+
+(8) The ability to speak another language.
+
+(9) Dress, attire, or personal appearance.
+
+(10) Employment in a field that is disproportionately occupied by members listed in subdivision (a) or that serves a population disproportionately comprised of members of a group or groups listed in subdivision (a).
+
+(11) Lack of employment or underemployment of the prospective juror or prospective juror’s family member.
+
+(12) A prospective juror’s apparent friendliness with another prospective juror of the same group as listed in subdivision (a).
+
+(13) Any justification that is similarly applicable to a questioned prospective juror or jurors, who are not members of the same cognizable group as the challenged prospective juror, but were not the subject of a peremptory challenge by that party. The unchallenged prospective juror or jurors need not share any other characteristics with the challenged prospective juror for peremptory challenge relying on this justification to be considered presumptively invalid.
+
+(f) For purposes of subdivision (e), the term “clear and convincing” refers to the degree of certainty the factfinder must have in determining whether the reasons given for the exercise of a peremptory challenge are unrelated to the prospective juror’s cognizable group membership, bearing in mind conscious and unconscious bias. To determine that a presumption of invalidity has been overcome, the factfinder shall determine that it is highly probable that the reasons given for the exercise of a peremptory challenge are unrelated to conscious or unconscious bias and are instead specific to the juror and bear on that juror’s ability to be fair and impartial in the case.
+(g) (1) The following reasons for peremptory challenges have historically been associated with improper discrimination in jury selection:
+(A) The prospective juror was inattentive, or staring or failing to make eye contact.
+
+(B) The prospective juror exhibited either a lack of rapport or problematic attitude, body language, or demeanor.
+
+(C) The prospective juror provided unintelligent or confused answers.
+
+(2) The reasons set forth in paragraph (1) are presumptively invalid unless the trial court is able to confirm that the asserted behavior occurred, based on the court’s own observations or the observations of counsel for the objecting party. Even with that confirmation, the counsel offering the reason shall explain why the asserted demeanor, behavior, or manner in which the prospective juror answered questions matters to the case to be tried.
+
+(h) Upon a court granting an objection to the improper exercise of a peremptory challenge, the court shall do one or more of the following:
+(1) Quash the jury venire and start jury selection anew. This remedy shall be provided if requested by the objecting party.
+
+(2) If the motion is granted after the jury has been impaneled, declare a mistrial and select a new jury if requested by the defendant.
+
+(3) Seat the challenged juror.
+
+(4) Provide the objecting party additional challenges.
+
+(5) Provide another remedy as the court deems appropriate.
+
+(i) This section applies in all jury trials in which jury selection begins on or after January 1, 2022.
+(j) The denial of an objection made under this section shall be reviewed by the appellate court de novo, with the trial court’s express factual findings reviewed for substantial evidence. The appellate court shall not impute to the trial court any findings, including findings of a prospective juror’s demeanor, that the trial court did not expressly state on the record. The reviewing court shall consider only reasons actually given under subdivision (c) and shall not speculate as to or consider reasons that were not given to explain either the party’s use of the peremptory challenge or the party’s failure to challenge similarly situated jurors who are not members of the same cognizable group as the challenged juror, regardless of whether the moving party made a comparative analysis argument in the trial court. Should the appellate court determine that the objection was erroneously denied, that error shall be deemed prejudicial, the judgment shall be reversed, and the case remanded for a new trial.
+(k) This section shall not apply to civil cases.
+(l) It is the intent of the Legislature that enactment of this section shall not, in purpose or effect, lower the standard for judging challenges for cause or expand use of challenges for cause.
+(m) The provisions of this section are severable. If any provision of this section or its application is held invalid, that invalidity shall not affect other provisions or applications that can be given effect without the invalid provision or application.
+(n) This section shall remain in effect only until January 1, 2026, and as of that date is repealed.
+(Added by Stats. 2020, Ch. 318, Sec. 2. (AB 3070) Effective January 1, 2021. Repealed as of January 1, 2026, by its own provisions. See later operative version added by Sec. 3 of Stats. 2020, Ch. 318.)
+
+231.7.  (a) A party shall not use a peremptory challenge to remove a prospective juror on the basis of the prospective juror’s race, ethnicity, gender, gender identity, sexual orientation, national origin, or religious affiliation, or the perceived membership of the prospective juror in any of those groups.
+(b) A party, or the trial court on its own motion, may object to the improper use of a peremptory challenge under subdivision (a). After the objection is made, any further discussion shall be conducted outside the presence of the panel. The objection shall be made before the jury is impaneled, unless information becomes known that could not have reasonably been known before the jury was impaneled.
+(c) Notwithstanding Section 226, upon objection to the exercise of a peremptory challenge pursuant to this section, the party exercising the peremptory challenge shall state the reasons the peremptory challenge has been exercised.
+(d) (1) The court shall evaluate the reasons given to justify the peremptory challenge in light of the totality of the circumstances. The court shall consider only the reasons actually given and shall not speculate on, or assume the existence of, other possible justifications for the use of the peremptory challenge. If the court determines there is a substantial likelihood that an objectively reasonable person would view race, ethnicity, gender, gender identity, sexual orientation, national origin, or religious affiliation, or perceived membership in any of those groups, as a factor in the use of the peremptory challenge, then the objection shall be sustained. The court need not find purposeful discrimination to sustain the objection. The court shall explain the reasons for its ruling on the record. A motion brought under this section shall also be deemed a sufficient presentation of claims asserting the discriminatory exclusion of jurors in violation of the United States and California Constitutions.
+(2) (A) For purposes of this section, an objectively reasonable person is aware that unconscious bias, in addition to purposeful discrimination, have resulted in the unfair exclusion of potential jurors in the State of California.
+
+(B) For purposes of this section, a “substantial likelihood” means more than a mere possibility but less than a standard of more likely than not.
+
+(C) For purposes of this section, “unconscious bias” includes implicit and institutional biases.
+
+(3) In making its determination, the circumstances the court may consider include, but are not limited to, any of the following:
+
+(A) Whether any of the following circumstances exist:
+
+(i) The objecting party is a member of the same perceived cognizable group as the challenged juror.
+
+(ii) The alleged victim is not a member of that perceived cognizable group.
+
+(iii) Witnesses or the parties are not members of that perceived cognizable group.
+
+(B) Whether race, ethnicity, gender, gender identity, sexual orientation, national origin, or religious affiliation, or perceived membership in any of those groups, bear on the facts of the case to be tried.
+
+(C) The number and types of questions posed to the prospective juror, including, but not limited to, any the following:
+
+(i) Consideration of whether the party exercising the peremptory challenge failed to question the prospective juror about the concerns later stated by the party as the reason for the peremptory challenge pursuant to subdivision (c).
+
+(ii) Whether the party exercising the peremptory challenge engaged in cursory questioning of the challenged potential juror.
+
+(iii) Whether the party exercising the peremptory challenge asked different questions of the potential juror against whom the peremptory challenge was used in contrast to questions asked of other jurors from different perceived cognizable groups about the same topic or whether the party phrased those questions differently.
+
+(D) Whether other prospective jurors, who are not members of the same cognizable group as the challenged prospective juror, provided similar, but not necessarily identical, answers but were not the subject of a peremptory challenge by that party.
+
+(E) Whether a reason might be disproportionately associated with a race, ethnicity, gender, gender identity, sexual orientation, national origin, or religious affiliation, or perceived membership in any of those groups.
+
+(F) Whether the reason given by the party exercising the peremptory challenge was contrary to or unsupported by the record.
+
+(G) Whether the counsel or counsel’s office exercising the challenge has used peremptory challenges disproportionately against a given race, ethnicity, gender, gender identity, sexual orientation, national origin, or religious affiliation, or perceived membership in any of those groups, in the present case or in past cases, including whether the counsel or counsel’s office who made the challenge has a history of prior violations under Batson v. Kentucky (1986) 476 U.S. 79, People v. Wheeler (1978) 22 Cal.3d 258, Section 231.5, or this section.
+
+(e) A peremptory challenge for any of the following reasons is presumed to be invalid unless the party exercising the peremptory challenge can show by clear and convincing evidence that an objectively reasonable person would view the rationale as unrelated to a prospective juror’s race, ethnicity, gender, gender identity, sexual orientation, national origin, or religious affiliation, or perceived membership in any of those groups, and that the reasons articulated bear on the prospective juror’s ability to be fair and impartial in the case:
+(1) Expressing a distrust of or having a negative experience with law enforcement or the criminal legal system.
+
+(2) Expressing a belief that law enforcement officers engage in racial profiling or that criminal laws have been enforced in a discriminatory manner.
+
+(3) Having a close relationship with people who have been stopped, arrested, or convicted of a crime.
+
+(4) A prospective juror’s neighborhood.
+
+(5) Having a child outside of marriage.
+
+(6) Receiving state benefits.
+
+(7) Not being a native English speaker.
+
+(8) The ability to speak another language.
+
+(9) Dress, attire, or personal appearance.
+
+(10) Employment in a field that is disproportionately occupied by members listed in subdivision (a) or that serves a population disproportionately comprised of members of a group or groups listed in subdivision (a).
+
+(11) Lack of employment or underemployment of the prospective juror or prospective juror’s family member.
+
+(12) A prospective juror’s apparent friendliness with another prospective juror of the same group as listed in subdivision (a).
+
+(13) Any justification that is similarly applicable to a questioned prospective juror or jurors, who are not members of the same cognizable group as the challenged prospective juror, but were not the subject of a peremptory challenge by that party. The unchallenged prospective juror or jurors need not share any other characteristics with the challenged prospective juror for peremptory challenge relying on this justification to be considered presumptively invalid.
+
+(f) For purposes of subdivision (e), the term “clear and convincing” refers to the degree of certainty the factfinder must have in determining whether the reasons given for the exercise of a peremptory challenge are unrelated to the prospective juror’s cognizable group membership, bearing in mind conscious and unconscious bias. To determine that a presumption of invalidity has been overcome, the factfinder shall determine that it is highly probable that the reasons given for the exercise of a peremptory challenge are unrelated to conscious or unconscious bias and are instead specific to the juror and bear on that juror’s ability to be fair and impartial in the case.
+(g) (1) The following reasons for peremptory challenges have historically been associated with improper discrimination in jury selection:
+(A) The prospective juror was inattentive, or staring or failing to make eye contact.
+
+(B) The prospective juror exhibited either a lack of rapport or problematic attitude, body language, or demeanor.
+
+(C) The prospective juror provided unintelligent or confused answers.
+
+(2) The reasons set forth in paragraph (1) are presumptively invalid unless the trial court is able to confirm that the asserted behavior occurred, based on the court’s own observations or the observations of counsel for the objecting party. Even with that confirmation, the counsel offering the reason shall explain why the asserted demeanor, behavior, or manner in which the prospective juror answered questions matters to the case to be tried.
+
+(h) Upon a court granting an objection to the improper exercise of a peremptory challenge, the court shall do one or more of the following:
+(1) Quash the jury venire and start jury selection anew. This remedy shall be provided if requested by the objecting party.
+
+(2) If the motion is granted after the jury has been impaneled, declare a mistrial and select a new jury if requested by the defendant.
+
+(3) Seat the challenged juror.
+
+(4) Provide the objecting party additional challenges.
+
+(5) Provide another remedy as the court deems appropriate.
+
+(i) This section applies in all jury trials in which jury selection begins on or after January 1, 2022.
+(j) The denial of an objection made under this section shall be reviewed by the appellate court de novo, with the trial court’s express factual findings reviewed for substantial evidence. The appellate court shall not impute to the trial court any findings, including findings of a prospective juror’s demeanor, that the trial court did not expressly state on the record. The reviewing court shall consider only reasons actually given under subdivision (c) and shall not speculate as to or consider reasons that were not given to explain either the party’s use of the peremptory challenge or the party’s failure to challenge similarly situated jurors who are not members of the same cognizable group as the challenged juror, regardless of whether the moving party made a comparative analysis argument in the trial court. Should the appellate court determine that the objection was erroneously denied, that error shall be deemed prejudicial, the judgment shall be reversed, and the case remanded for a new trial.
+(k) It is the intent of the Legislature that enactment of this section shall not, in purpose or effect, lower the standard for judging challenges for cause or expand use of challenges for cause.
+(l) The provisions of this section are severable. If any provision of this section or its application is held invalid, that invalidity shall not affect other provisions or applications that can be given effect without the invalid provision or application.
+(m) This section shall become operative January 1, 2026.
+(Repealed (in Sec. 2) and added by Stats. 2020, Ch. 318, Sec. 3. (AB 3070) Effective January 1, 2021. Section operative January 1, 2026, by its own provisions.)
+
+232.  (a) Prior to the examination of prospective trial jurors in the panel assigned for voir dire, the following perjury acknowledgement and agreement shall be obtained from the panel, which shall be acknowledged by the prospective jurors with the statement “I do”:
+“Do you, and each of you, understand and agree that you will accurately and truthfully answer, under penalty of perjury, all questions propounded to you concerning your qualifications and competency to serve as a trial juror in the matter pending before this court; and that failure to do so may subject you to criminal prosecution.”
+(b) As soon as the selection of the trial jury is completed, the following acknowledgment and agreement shall be obtained from the trial jurors, which shall be acknowledged by the statement “I do”:
+“Do you and each of you understand and agree that you will well and truly try the cause now pending before this court, and a true verdict render according only to the evidence presented to you and to the instructions of the court.”
+(Amended by Stats. 1989, Ch. 1416, Sec. 10.)
+
+233.  If, before the jury has returned its verdict to the court, a juror becomes sick or, upon other good cause shown to the court, is found to be unable to perform his or her duty, the court may order the juror to be discharged. If any alternate jurors have been selected as provided by law, one of them shall then be designated by the court to take the place of the juror so discharged. If after all alternate jurors have been made regular jurors or if there is no alternate juror, a juror becomes sick or otherwise unable to perform the juror’s duty and has been discharged by the court as provided in this section, the jury shall be discharged and a new jury then or afterwards impaneled, and the cause may again be tried. Alternatively, with the consent of all parties, the trial may proceed with only the remaining jurors, or another juror may be sworn and the trial begin anew.
+(Added by Stats. 1988, Ch. 1245, Sec. 2.)
+
+234.  Whenever, in the opinion of a judge of a superior court about to try a civil or criminal action or proceeding, the trial is likely to be a protracted one, or upon stipulation of the parties, the court may cause an entry to that effect to be made in the minutes of the court and thereupon, immediately after the jury is impaneled and sworn, the court may direct the calling of one or more additional jurors, in its discretion, to be known as “alternate jurors.”
+These alternate jurors shall be drawn from the same source, and in the same manner, and have the same qualifications, as the jurors already sworn, and shall be subject to the same examination and challenges. However, each side, or each defendant, as provided in Section 231, shall be entitled to as many peremptory challenges to the alternate jurors as there are alternate jurors called.
+The alternate jurors shall be seated so as to have equal power and facilities for seeing and hearing the proceedings in the case, and shall take the same oath as the jurors already selected, and shall, unless excused by the court, attend at all times upon the trial of the cause in company with the other jurors, but shall not participate in deliberation unless ordered by the court, and for a failure to do so are liable to be punished for contempt.
+They shall obey the orders of and be bound by the admonition of the court, upon each adjournment of the court; but if the regular jurors are ordered to be kept in the custody of the sheriff or marshal during the trial of the cause, the alternate jurors shall also be kept in confinement with the other jurors; and upon final submission of the case to the jury, the alternate jurors shall be kept in the custody of the sheriff or marshal who shall not suffer any communication to be made to them except by order of the court, and shall not be discharged until the original jurors are discharged, except as provided in this section.
+If at any time, whether before or after the final submission of the case to the jury, a juror dies or becomes ill, or upon other good cause shown to the court is found to be unable to perform his or her duty, or if a juror requests a discharge and good cause appears therefor, the court may order the juror to be discharged and draw the name of an alternate, who shall then take his or her place in the jury box, and be subject to the same rules and regulations as though he or she had been selected as one of the original jurors.
+All laws relative to fees, expenses, and mileage or transportation of jurors shall be applicable to alternate jurors, except that in civil cases the sums for fees and mileage or transportation need not be deposited until the judge directs alternate jurors to be impaneled.
+(Amended by Stats. 2010, Ch. 328, Sec. 33. (SB 1330) Effective January 1, 2011.)
+
+235.  At the request of the sheriff, coroner, or other ministerial officer, the jury commissioner shall provide such prospective jurors as may be required to form a jury of inquest. Prospective jurors so provided shall be selected, obligated, and compensated in the same manner as other jurors selected under the provisions of this chapter.
+(Added by Stats. 1988, Ch. 1245, Sec. 2.)
+
+236.  When six or more prospective jurors of inquest attend, they shall be sworn by the coroner to inquire who the person was, and when, where, and by what means the person came to his or her death, to inquire into the circumstances attending the death, and to render a true verdict thereon, according to the evidence offered them or arising from the inspection of the body.
+(Added by Stats. 1988, Ch. 1245, Sec. 2.)
+
+237.  (a) (1) The names of qualified jurors drawn from the qualified juror list for the superior court shall be made available to the public upon request unless the court determines that a compelling interest, as defined in subdivision (b), requires that this information should be kept confidential or its use limited in whole or in part.
+(2) Upon the recording of a jury’s verdict in a criminal jury proceeding, the court’s record of personal juror identifying information of trial jurors, as defined in Section 194, consisting of names, addresses, and telephone numbers, shall be sealed until further order of the court as provided by this section.
+
+(3) For purposes of this section, “sealed” or “sealing” means extracting or otherwise removing the personal juror identifying information from the court record.
+
+(4) This subdivision applies only to cases in which a jury verdict was returned on or after January 1, 1996.
+
+(b) Any person may petition the court for access to these records. The petition shall be supported by a declaration that includes facts sufficient to establish good cause for the release of the juror’s personal identifying information. The court shall set the matter for hearing if the petition and supporting declaration establish a prima facie showing of good cause for the release of the personal juror identifying information, but shall not set the matter for hearing if there is a showing on the record of facts that establish a compelling interest against disclosure. A compelling interest includes, but is not limited to, protecting jurors from threats or danger of physical harm. If the court does not set the matter for hearing, the court shall by minute order set forth the reasons and make express findings either of a lack of a prima facie showing of good cause or the presence of a compelling interest against disclosure.
+(c) If a hearing is set pursuant to subdivision (b), the petitioner shall provide notice of the petition and the time and place of the hearing at least 20 days prior to the date of the hearing to the parties in the criminal action. The court shall provide notice to each affected former juror by personal service or by first-class mail, addressed to the last known address of the former juror as shown in the records of the court. In a capital case, the petitioner shall also serve notice on the Attorney General. Any affected former juror may appear in person, in writing, by telephone, or by counsel to protest the granting of the petition. A former juror who wishes to appear at the hearing to oppose the unsealing of the personal juror identifying information may request the court to close the hearing in order to protect the former juror’s anonymity.
+(d) After the hearing, the records shall be made available as requested in the petition, unless a former juror’s protest to the granting of the petition is sustained. The court shall sustain the protest of the former juror if, in the discretion of the court, the petitioner fails to show good cause, the record establishes the presence of a compelling interest against disclosure as defined in subdivision (b), or the juror is unwilling to be contacted by the petitioner. The court shall set forth reasons and make express findings to support the granting or denying of the petition to disclose. The court may require the person to whom disclosure is made, or his or her agent or employee, to agree not to divulge jurors’ identities or identifying information to others; the court may otherwise limit disclosure in any manner it deems appropriate.
+(e) Any court employee who has legal access to personal juror identifying information sealed under subdivision (a), who discloses the information, knowing it to be a violation of this section or a court order issued under this section, is guilty of a misdemeanor.
+(f) Any person who intentionally solicits another to unlawfully access or disclose personal juror identifying information contained in records sealed under subdivision (a), knowing that the records have been sealed, or who, knowing that the information was unlawfully secured, intentionally discloses it to another person is guilty of a misdemeanor.
+(Amended by Stats. 1996, Ch. 636, Sec. 2. Effective September 19, 1996.)
+
+242.  (a) Following the receipt of a verdict and before discharging the jury in a criminal action or proceeding alleging a violent felony, the court shall provide written information to the trial jurors about mental health awareness, including information about stress relief and symptoms that may be experienced following exposure to trauma.
+(b) Following the receipt of a verdict in a criminal action or proceeding alleging a violent felony, the court shall distribute, in a manner determined by the court, information to the alternate jurors who have been discharged from their duty about mental health awareness, including information about stress relief and symptoms that may be experienced following exposure to trauma.
+(c) At the conclusion of a criminal action or proceeding alleging a violent felony in which evidence was presented, but a verdict was not rendered by the jury, the court shall provide written information about mental health awareness, including information about stress relief and symptoms that may be experienced following exposure to trauma, before discharging the jury and alternate jurors. The information shall only be provided after the jurors and alternate jurors are no longer responsible for rendering a verdict in the trial.
+(d) The court may share this information with jurors and alternate jurors following the conclusion of a criminal action or proceeding alleging an offense that is not a violent felony.
+(e) The Judicial Council shall develop the written educational information that the court shall print and distribute pursuant to this section. The information shall include, but shall not be limited to, the signs and symptoms of distress, healthy coping mechanisms, and how to seek help for exposure to trauma if needed.
+(f) For the purposes of this section, “violent felony” has the same definition as in subdivision (c) of Section 667.5 of the Penal Code.
+(Added by Stats. 2024, Ch. 204, Sec. 1. (AB 2985) Effective January 1, 2025.)
