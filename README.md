@@ -1,5 +1,9 @@
 # Your Honor, I Object (to Jury Duty)
 
+## 🧩 Problem Statement
+
+Jurors often have questions about their eligibility, the excusal process, and legal obligations that are difficult to answer without calling the jury office or reading complex legal code. This creates workload strain on staff, delays for jurors, and inconsistent access to accurate information. The goal of this prototype is to build a low-cost, legally cautious AI chatbot that can provide neutral, citation-backed answers using content from California Code of Civil Procedure §§190–242 and California Rule of Court 2.1008 This tool is designed to support, not replace, staff by answering common questions and guiding users toward the correct next steps.
+
 ⚠️ **Demo Only – Not for Public Use**
 
 This AI chatbot prototype answers jury-related questions using:
