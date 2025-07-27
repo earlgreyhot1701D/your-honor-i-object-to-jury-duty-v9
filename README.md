@@ -85,3 +85,16 @@ This app is **not legal advice**. Please call the Jury Office at (805) 882-4530 
 Based on [Ryan Gertz’s Bedrock chatbot repo](https://github.com/RyanGertz/aws-bedrock-streamlit-chat)
 
 Created by **L. Cordero** for **CCC AI Summer Camp 2025**.
+
+---
+
+### 🤖 AI Acknowledgment
+
+This project was heavily assisted by **ChatGPT**, which served as my technical coach, writing editor, and troubleshooting partner throughout the build process.
+
+🧠 Credit: "6th Person Off the Bench" — providing assistive insight, not doing the work.
+
+All development decisions, legal content curation, and prompt testing were guided and implemented by **L Cordero**, with ChatGPT providing structure, feedback, and suggestions during the iterative build.
+
+---
+
