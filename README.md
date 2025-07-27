@@ -6,6 +6,8 @@ Jurors often have questions about their eligibility, the excusal process, and le
 
 ⚠️ **Demo Only – Not for Public Use**
 
+🔗 Demo (Loom): [Watch the demo](https://www.loom.com/share/189bf95c6e8643da9188f85413daf56f?sid=634f2e81-8ac8-4328-8a54-9524c1a4231a)  
+
 This AI chatbot prototype answers jury-related questions using:
 - California Code of Civil Procedure §§190–242
 - California Rule of Court 2.1008
