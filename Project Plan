@@ -1,0 +1,73 @@
+# 📋 Project Plan: Jury Eligibility Chatbot (v9)
+
+## 1. Initiation
+
+**Problem Statement:**  
+Jurors often contact the court with questions about eligibility, deferral, disqualification, and hardship. These questions are governed by public legal codes, but the information can be difficult to access or understand. This project is a proof-of-concept AI chatbot that retrieves and presents this information in a user-friendly, legally safe format using Retrieval-Augmented Generation (RAG).
+
+**Goal:**  
+Build a working demo that shows how AI can assist jury operations with clear boundaries, accuracy, and transparency.
+
+## 2. Planning
+
+**Target Audience:**  
+- Internal court staff (for onboarding and training)
+- Leadership/stakeholders (for evaluating AI prototypes)
+- Camp mentors and peers (for CCC AI Summer Camp 2025)
+
+**Legal Sources Used:**  
+- California Code of Civil Procedure §§203–204  
+- California Rules of Court Rule 2.1008
+
+**Tech Stack:**  
+- Claude via AWS Bedrock  
+- LangChain + langchain_community  
+- FAISS for vector store  
+- RAG (Retrieval-Augmented Generation) pipeline  
+- Streamlit for front-end  
+- Python virtual environment
+
+**Constraints:**  
+- No creative generation allowed (only retrieval)  
+- AI responses must include citations and fallback language  
+- Public-facing language must avoid legal advice tone
+
+## 3. Execution
+
+**Steps Taken:**  
+- Collected and cleaned legal source text  
+- Created embedding pipeline with FAISS  
+- Built a RAG pipeline to retrieve relevant sections  
+- Constructed a simple Streamlit UI with safety disclaimers  
+- Ran tests with common jury-related questions
+
+## 4. Implementation
+
+**What Works:**  
+- Accurate legal citations returned  
+- Fallback message triggers when no match is found  
+- Clean Streamlit interface with safety guardrails  
+- Jurors can ask: “I’m a caregiver, can I be excused?” and receive cited answers
+
+**What Needs Improvement:**  
+- Matching edge cases (e.g., “I’m not a resident”)  
+- Plain-language output alongside legal code  
+- Enhanced semantic chunking of legal content
+
+## 5. Closing
+
+**Outcome:**  
+v9 demonstrates the power of RAG for legal reference chatbots using only public code and Bedrock’s secure FM interface. It shows how AI can be tested safely in a court environment without full deployment.
+
+**Next Steps (v10):**  
+- Plain-language summaries for each legal response
+- Multi-turn memory for natural back-and-forth conversation
+- Semantic search for better matching across phrasing
+- Exception handling for unclear, incomplete, or vague queries
+- Live deployment to secure internal or public-facing sites
+- Integration with court FAQs or local rules
+- Inclusion of Jury Office contact details in fallback messages
+- Automatic prompts for unique cases: “Call the Jury Office”
+- Clear pathways for actionable next steps: deferral, excuse, or disqualification
+- Additional safety guardrails, like better refusal responses when content is missing
+- Refinement of inference parameters (temperature, top_p, etc.) to ensure neutral, cautious tone in public-facing tools
