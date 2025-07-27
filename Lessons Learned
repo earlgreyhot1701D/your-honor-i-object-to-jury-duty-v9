@@ -35,6 +35,7 @@ I also learned that **AI in public service needs clarity and constraints**:
 - Sometimes the best answer is “I don’t know, please call our office” — and that’s okay.
 
 Going forward, I’ll treat v10 not as a conclusion, but as a more robust foundation for future learning and refinement.
+
 ### 📚 Working with `kb_index/` – The Vector Index
 
 One important lesson was understanding how the `kb_index/` folder powers the Retrieval-Augmented Generation (RAG) process.
