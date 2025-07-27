@@ -34,7 +34,6 @@ I used Streamlit to build a clean, simple web interface for demo purposes withou
 - **Python**  
 Python made all of this possible with readable code, great support for AI tools, and compatibility with everything from AWS to Streamlit.
 
-
 ## 🔄 Future Development (v10+)
 
 This chatbot is an iterative public service prototype. While version 9 demonstrates successful legal information retrieval, future versions may include:
@@ -50,6 +49,27 @@ This chatbot is an iterative public service prototype. While version 9 demonstra
 - ✅ Clear pathways for actionable next steps: deferral, excuse, or disqualification
 - 🛡️ Additional safety guardrails, like better refusal responses when content is missing
 - ⚙️ Refinement of inference parameters (temperature, top_p, etc.) to ensure neutral, cautious tone in public-facing tools
+
+## 🧠 Vector Index Notes (`kb_index/`)
+
+This folder contains the pre-built vector index of your legal knowledge base, created using FAISS during the `load_documents.py` step. It allows the chatbot to match juror questions with relevant code sections.
+
+To rebuild this index manually (optional):
+```bash
+python load_documents.py
+
+## 🧠 Environment Notes (for Developers)
+
+This repo does **not** include the following folders, which are auto-generated when running the chatbot locally:
+
+- `_pycache_/` – stores temporary compiled versions of Python files.
+- `.venv/` – your local Python virtual environment.
+
+To recreate your environment:
+1. Set up a virtual environment (see `vscode_chatbot_instructions_corrected.txt`)
+2. Install dependencies with:  
+   ```bash
+   pip install -r requirements.txt
 
 ## 🎥 COMING SOON 
 **Demo Walkthrough Video**: Watch how this chatbot helps jurors get answers from official legal sources, with neutral and accurate language.
